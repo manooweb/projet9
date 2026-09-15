@@ -8,5 +8,5 @@
 	    </c:otherwise>
 	</c:choose>
 	<a class="nav-link" href="/app/livraisons">Livraisons</a>
-	<a class="nav-link nav-link-pull-right" href="/app/logout">Se déconnecter</a>
+	<a class="nav-link nav-link-pull-right" href="/app/logout">Se dÃ©connecter</a>
 </nav>
